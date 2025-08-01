@@ -10,6 +10,6 @@
 2. Open `index.html` in any browser
 
 ## 🔗 Live Demo
-[View Live](https://yourusername.github.io/ton-webpage/)
+[View Live](https://gogaga-assignment-deepakyadav9966s-projects.vercel.app/)
 
 
